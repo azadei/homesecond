@@ -1,1 +1,2 @@
 num lock
+caps lock
