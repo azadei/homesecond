@@ -1,3 +1,4 @@
 num lock
-caps lock
+shift
 scroll lock
+caps lock
