@@ -1,2 +1,3 @@
 num lock
 caps lock
+scroll lock
