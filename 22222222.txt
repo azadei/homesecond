@@ -2,3 +2,4 @@ num lock
 shift
 scroll lock
 caps lock
+insert 
